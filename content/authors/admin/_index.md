@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Ashwani Kumar
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Ashwani Kumar
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Ashwani
+last_name: Kumar
 
 # Status emoji
 status:
@@ -17,27 +17,27 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+  - name: Aetherion
+    url: https://www.Aetherion.in/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'ashwani@ashwani.online'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://twitter.com/Ashwani_k332
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/Aetherion-Studio
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: www.linkedin.com/in/ashwanikumar332
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/ashwanikumark332/
 
 education:
   - area: PhD Artificial Intelligence
@@ -102,7 +102,7 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 60
         icon: devicon/python
       - name: RStudio
         description: ''
@@ -169,4 +169,4 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+I am currently a Student and the owner of Aetherion Project, where I am leading the development of Hive Mind System.
