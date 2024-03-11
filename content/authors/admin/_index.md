@@ -3,7 +3,7 @@
 title: Ashwani Kumar
 
 # Name pronunciation (optional)
-name_pronunciation: Ashwani Kumar
+name_pronunciation: अश्विनी कुमार
 
 # Full name (for SEO)
 first_name: Ashwani
