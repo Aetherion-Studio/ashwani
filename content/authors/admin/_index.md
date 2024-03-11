@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Ashwani Kumar
+title: अश्विनी कुमार
 
 # Name pronunciation (optional)
-name_pronunciation: अश्विनी कुमार
+name_pronunciation: Ashwani Kumar
 
 # Full name (for SEO)
 first_name: Ashwani
